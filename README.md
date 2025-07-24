@@ -10,7 +10,7 @@ We check accuracy by:<br>
 - Comparing predictions to real values using metrics like MAE (Mean Absolute Error), RMSE, and visualizations (e.g., predicted vs. actual plots).
 - Monitoring for drift to catch when the model starts making worse predictions because the world has changed.
 
-In summary, check model's accuracy by comparing its predictions to real historical data. Exm: How many bikes will be rented on a hot summer afternoon?"
+In summary, check model's accuracy by comparing its predictions to real historical data. Exm: "How many bikes will be rented on a hot summer afternoon?"
 
 ## Step-by-step: 
 ### 1. Loading the Data
