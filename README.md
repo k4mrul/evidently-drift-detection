@@ -1,4 +1,4 @@
-We are building a system to predict and monitor bike rental demand for a bike-sharing service.
+In this notebook, we are predicting the hourly demand for bike rentals—specifically, the number of bikes rented each hour (the "cnt" column in the dataset). The problem being solved is a regression task: building a machine learning model to forecast bike rental demand based on features like weather, time, and calendar information. The goal is to monitor the model's performance over time and detect any changes (drift) in the data or target patterns that could affect prediction accuracy.
 
 The Bike Sharing Dataset (from the UCI Machine Learning Repository) contains detailed records of a bike rental service in a city, with data collected hourly. Each row tells you how many bikes were rented in a given hour, along with information like the date, time, weather, temperature, humidity, whether it was a holiday, and more.
 
